@@ -1,8 +1,8 @@
 # Project Title
 
-Arbitrary Precision Calculator (APC)
+**Arbitrary Precision Calculator (APC)**
 
 ## Lessons Learned
 
-- Gained hands-on experience with arbitrary precision arithmetic, algorithm optimization, and handling large numbers beyond standard data types.  
-- Learned to balance precision, performance, and robust edge-case handling in complex computations.
+- **Hands-on experience** with arbitrary precision arithmetic, algorithm optimization, and handling **very large numbers** beyond standard data types.  
+- Learned to **balance precision, performance, and edge-case robustness** in complex computations.
